@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We’re **VetNet** – a small Scandinavian team building software for veterinary clinics and the people who keep animals healthy. 🐶🐱🐴
+We’re **Vetnet** – a small Scandinavian team building software for veterinary clinics and the people who keep animals healthy. 🐶🐱🐴
 
 ### What we do
 
